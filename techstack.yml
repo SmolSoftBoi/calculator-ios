@@ -1,0 +1,31 @@
+repo_name: SmolSoftBoi/calculator-ios
+report_id: 87d232dbbd6833ac7fd8aa9721a37421
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-17T01:42:57+00:00'
+requested_by: SmolSoftBoi
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/SmolSoftBoi/calculator-ios
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/SmolSoftBoi/calculator-ios
+  detection_source: Repo Metadata
